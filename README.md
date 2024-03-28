@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on
   - doormath.ca: a Canadian real estate platform that offers precise and free home value estimations based on ML models with crowdsourced data
 - 🌱 I’m currently learning
