@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact:
   - The single pic I have on instagram is me with a 10 pounds northern pike and I have no idea to this day how I did that 
 
-Donations to jpmelanson@getalby.com appreciated 🙏
+Donations to ⚡ address jpmelanson@getalby.com appreciated 🙏
 
 I hate .NET, LinkedIn and big tech abusing my privacy.
