@@ -1,27 +1,33 @@
-### Hi there 👋
+### Hi there, I'm JP 👋
 
-- 🔭 I’m currently working on
-  - doormath.ca: a Canadian real estate platform that offers precise and free home value estimations based on ML models with crowdsourced data
-- 🌱 I’m currently learning
-  - bitcoin
-  - nostr
-  - lightning
-- 👯 I’m looking to collaborate on
-  - apps in the freedom tech space
-- 🤔 I’m looking for help with
-  - web/mobile development
-  - cloud/devops
-  - community adoption initiatives
-- 💬 Ask me about
-  - where I come from and why my body is always hurt
-- 📫 How to reach me:
-  - nostr: npub14706wrx38vptxufpq64zw89593c8t47y3809mg6npyl8t969aaese6ysq6
-  - email: jpmelanson@gmail.com
-- 😄 Pronouns:
-  - call me JP
-- ⚡ Fun fact:
-  - The single pic I have on instagram is me with a 10 pounds northern pike and I have no idea to this day how I did that 
+Imdevloper from Quebec City, Canada.
+
+I am a simple family man, dad of 3 and hockey player and my ultimate dream is to own a small farm.
+
+🔭 I’m currently working on doormath.ca: a Canadian real estate platform that offers precise and free home value estimations based on ML models with crowdsourced data
+🌱 I’m currently learning: bitcoin, nostr, lightning, blockchain development
+👯 I’m looking to collaborate on apps in the freedom tech space
+🤔 I’m looking for help with: web/mobile development, cloud/devops, community adoption initiatives
 
 Donations to ⚡ address jpmelanson@getalby.com appreciated 🙏
 
-I hate .NET, LinkedIn and big tech abusing my privacy.
+
+Reach me
+📧 jpmelanson@gmail.com
+𓅦 npub14706wrx38vptxufpq64zw89593c8t47y3809mg6npyl8t969aaese6ysq6 
+
+⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣴⣶⣾⣿⣿⣿⣿⣷⣶⣦⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⣠⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣄⠀⠀⠀⠀⠀
+⠀⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⠀⠀
+⠀⠀⣴⣿⣿⣿⣿⣿⣿⣿⠟⠿⠿⡿⠀⢰⣿⠁⢈⣿⣿⣿⣿⣿⣿⣿⣿⣦⠀⠀
+⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣤⣄⠀⠀⠀⠈⠉⠀⠸⠿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀
+⢰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⠀⠀⢠⣶⣶⣤⡀⠀⠈⢻⣿⣿⣿⣿⣿⣿⣿⡆
+⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠼⣿⣿⡿⠃⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣷
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠀⠀⢀⣀⣀⠀⠀⠀⠀⢴⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⢿⣿⣿⣿⣿⣿⣿⣿⢿⣿⠁⠀⠀⣼⣿⣿⣿⣦⠀⠀⠈⢻⣿⣿⣿⣿⣿⣿⣿⡿
+⠸⣿⣿⣿⣿⣿⣿⣏⠀⠀⠀⠀⠀⠛⠛⠿⠟⠋⠀⠀⠀⣾⣿⣿⣿⣿⣿⣿⣿⠇
+⠀⢻⣿⣿⣿⣿⣿⣿⣿⣿⠇⠀⣤⡄⠀⣀⣀⣀⣀⣠⣾⣿⣿⣿⣿⣿⣿⣿⡟⠀
+⠀⠀⠻⣿⣿⣿⣿⣿⣿⣿⣄⣰⣿⠁⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠀⠀
+⠀⠀⠀⠙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋⠀⠀⠀
+⠀⠀⠀⠀⠀⠙⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠋⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⠻⠿⢿⣿⣿⣿⣿⡿⠿⠟⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀
