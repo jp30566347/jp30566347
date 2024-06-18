@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with: web/mobile development, cloud/devops, community adoption initiatives
 
 ##### Reach
-- 📧 jpmelanson@gmail.com
+- 📧 jp305 <at> pm <dot> me
 - 𓅦 npub14706wrx38vptxufpq64zw89593c8t47y3809mg6npyl8t969aaese6ysq6
 
 ##### Donations
