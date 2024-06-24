@@ -11,4 +11,4 @@
 - 𓅦 npub14706wrx38vptxufpq64zw89593c8t47y3809mg6npyl8t969aaese6ysq6
 
 ##### Donations
-- ⚡ jpmelanson@getalby.com 🙏
+- ⚡ jp305@getalby.com 🙏
