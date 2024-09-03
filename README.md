@@ -1,7 +1,6 @@
 ### Hi there, I'm JP 👋
 
 - 💻 Techie from Quebec City, Canada. I'm a simple family man, dad of 3 and hockey player and my ultimate dream is to own a small farm.
-- 🔭 Technical partner @ doormath.ca: free AI based home value estimations for the Montreal real estate market.
 - 🌱 Currently learning bitcoin, nostr, lightning and other freedom tech, looking to contribute more to FOSS.
 
 ##### Reach
@@ -10,3 +9,6 @@
 
 ##### Donations
 - ⚡ jp305@getalby.com 🙏
+
+##### Past
+- 🔭 Technical Lead @ doormath.ca: free AI based home value estimations for the Montreal real estate market.
