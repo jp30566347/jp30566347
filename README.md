@@ -4,7 +4,7 @@
 - 🌱 Currently learning bitcoin, nostr, lightning and other freedom tech, looking to contribute more to FOSS.
 
 ##### Reach
-- 📧 My website
+- 📧 [My website](www.jp305.dev)
 - 𓅦 npub14706wrx38vptxufpq64zw89593c8t47y3809mg6npyl8t969aaese6ysq6
 
 ##### Donations
