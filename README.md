@@ -11,4 +11,6 @@
 - ⚡ jp305@getalby.com 🙏
 
 ##### Past
-- 🔭 Technical Lead @ doormath.ca: free AI based home value estimations for the Montreal real estate market.
+- 🔭 Technical Lead @ doormath.ca: Accurate home values driven by ML and crowdsourcing
+- 🛒 Senior Eng @ fastaf: Quick Commerce Delivery App
+- 🏗️ Freelancing: Web & Mobile dev
